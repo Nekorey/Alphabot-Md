@@ -1,7 +1,7 @@
 {
-  "name": "AlphabotMD",
+  "name": "Sagiri-Chan",
   "version": "1.0.6",
-  "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
+  "description": "Alpha Bot Multi Device",
   "main": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "RadiBotz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
